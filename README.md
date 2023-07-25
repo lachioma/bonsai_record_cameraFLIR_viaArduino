@@ -64,7 +64,7 @@ The frame rate is controlled by Arduino. To change frame rate:
 If you change the camera acquisition frame rate (currently set at 50 fps), you might want to change the frame rate embedded in the video file metadata, i.e. the frame rate at which a video player (e.g. VLC) will play back the video. To change that, you need to change the node “Double -> Videofile FrameRate” that you find within the node “Some params” (see screenshot below). This node also affects the Dropped frames monitoring. 
 **Important**: again, this node does not change the actual acquisition rate of the camera, which is controlled only by the TTL from Arduino. 
 
-![InkedInkedScreenshot 2023-07-18 183523](https://github.com/lachioma/bonsai_record_cameraFLIR_viaArduino-AudioCapture/assets/29898879/215b7b16-e572-411f-84e6-ed534907305b)
+![Screenshot 2023-07-25 154717](https://github.com/lachioma/bonsai_record_cameraFLIR_viaArduino/assets/29898879/5c647c5f-fd37-48de-ae99-8fd824f84a51)
 
 
 ### Exposure time, gain, resolution, other camera settings
