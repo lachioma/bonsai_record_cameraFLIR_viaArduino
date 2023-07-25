@@ -1,6 +1,9 @@
-# bonsai_record_cameraFLIR_viaArduino-AudioCapture
+# bonsai_record_cameraFLIR_viaArduino
 
-The program provides simultaneous microphone audio recording and video recording from the FLIR camera.
+The program provides video recording from the FLIR camera.
+
+**Note**: this ReadMe actually refers to [bonsai_record_cameraFLIR_viaArduino-AudioCapture](https://github.com/lachioma/bonsai_record_cameraFLIR_viaArduino-AudioCapture) but it very much similar.
+
 
 ## Usage
 * Set the camera acquisition rate in the Arduino script (see section **Camera settings > Frame rate** below)
